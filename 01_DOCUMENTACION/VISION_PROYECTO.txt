@@ -1,0 +1,50 @@
+# INMOOS
+
+Versión: 0.1
+
+## Objetivo
+
+Construir una plataforma de inteligencia artificial para inmobiliarias que automatice el trabajo repetitivo de captación y permita al comercial dedicar su tiempo únicamente a cerrar operaciones.
+
+## Primer cliente
+
+Mi propia inmobiliaria.
+
+## Objetivo del MVP
+
+Conseguir más captaciones antes de finalizar el mes.
+
+## Filosofía
+
+No gastar dinero hasta generar dinero.
+
+Cada desarrollo debe ahorrar tiempo o aumentar ingresos.
+
+## Arquitectura
+
+Sistema basado en agentes especializados.
+
+## Director del sistema
+
+AEGIS
+
+## Agentes
+
+HALCÓN
+SHERLOCK
+RADAR
+MERCURIO
+HERMES
+ATLAS
+CRONOS
+ORÁCULO
+
+## Regla nº1
+
+Nunca perder el proyecto.
+
+Todo debe quedar documentado.
+
+Todo debe estar versionado.
+
+Todo debe tener copia de seguridad.
