@@ -8,9 +8,9 @@ with sync_playwright() as p:
 
     page = browser.new_page()
 
-    print("🌍 Abriendo OpenAI...")
+    print("Abriendo Idealista...")
 
-    page.goto("https://www.openai.com")
+    page.goto("https://www.idealista.com")
 
     page.wait_for_timeout(TIEMPO_ESPERA)
 
