@@ -12,3 +12,12 @@ venv/
 # Windows
 Thumbs.db
 Desktop.ini
+
+# Perfil persistente de Playwright
+11_PERFILES/
+
+# Base de datos SQLite (si la creamos localmente)
+*.db
+
+# Logs
+*.log
